@@ -1,0 +1,4 @@
+- Use images with a capacity of less than 1 mb to send
+- Java Compiler is Jdk 17
+-Users : user1,user2 ,......
+-jar file target\websocket-3.2.3.jar is executable 
